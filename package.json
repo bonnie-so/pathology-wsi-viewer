@@ -1,0 +1,29 @@
+{
+  "name": "pathology-wsi-viewer",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Browser whole-slide image viewer with ROI annotation, serial-section overlay/alignment, ML-prediction review, and specimen tracking (synthetic data).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "openseadragon": "^4.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/openseadragon": "^3.0.10",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "~5.4.5",
+    "vite": "^5.3.4",
+    "vitest": "^2.0.5"
+  }
+}
