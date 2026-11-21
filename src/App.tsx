@@ -37,7 +37,7 @@ export default function App() {
           <strong>Pathology WSI Viewer</strong>
           <span className="sub">browser whole-slide viewer · ROI annotation · serial-section alignment · ML review</span>
         </div>
-        <a className="gh" href="https://github.com/bonnieso/pathology-wsi-viewer" target="_blank" rel="noreferrer">
+        <a className="gh" href="https://github.com/bonnie-so/pathology-wsi-viewer" target="_blank" rel="noreferrer">
           source ↗
         </a>
       </header>

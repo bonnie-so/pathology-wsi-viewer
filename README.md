@@ -4,7 +4,7 @@ A browser **whole-slide image (WSI) viewer** for digital pathology, with ROI
 annotation, serial-section overlay & alignment, ML-prediction review, and
 specimen tracking. Built with **React + TypeScript + OpenSeadragon**.
 
-🔗 **Live demo:** https://bonnieso.github.io/pathology-wsi-viewer/
+🔗 **Live demo:** https://bonnie-so.github.io/pathology-wsi-viewer/
 *(enable GitHub Pages → "GitHub Actions" after the first push; see below)*
 
 > ⚠️ **All imagery is procedurally generated and all specimens/predictions are
